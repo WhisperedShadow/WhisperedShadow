@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://raw.githubusercontent.com/DuraiPonSingh/DuraiPonSingh/main/banner.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=C71585&width=600&lines=Hi+there!+I'm+Durai+Pon+Singh+👋;A+Passionate+Developer+%26+Learner;Full-Stack+MERN+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8A2BE2&width=600&lines=Hi+there!+I'm+Durai+Pon+Singh+👋;A+Passionate+Developer+%26+Learner;Full-Stack+MERN+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
 
 ---
 
