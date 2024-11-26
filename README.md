@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://raw.githubusercontent.com/DuraiPonSingh/DuraiPonSingh/main/banner.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=39FF14&width=600&lines=Hi+there!+I'm+Durai+Pon+Singh+👋;A+Passionate+Developer+%26+Learner;Full-Stack+MERN+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8A2BE2&width=600&lines=Hi+there!+I'm+Durai+Pon+Singh+👋;A+Passionate+Developer+%26+Learner;Full-Stack+MERN+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
 
 ---
 
@@ -55,8 +55,8 @@ A weather application built with **React.js** using OpenWeatherMap API. Displays
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DuraiPonSingh&show_icons=true&theme=tokyonight&count_private=true" alt="Durai Pon Singh's GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuraiPonSingh&layout=compact&theme=tokyonight&langs_count=6" alt="Durai Pon Singh's Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WhisperedShadow&show_icons=true&theme=tokyonight&count_private=true" alt="Durai Pon Singh's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhisperedShadow&layout=compact&theme=tokyonight&langs_count=6" alt="Durai Pon Singh's Top Languages" />
 </div>
 
 ---
