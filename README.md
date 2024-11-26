@@ -56,7 +56,7 @@ A weather application built with **React.js** using OpenWeatherMap API. Displays
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DuraiPonSingh&show_icons=true&theme=tokyonight&count_private=true" alt="Durai Pon Singh's GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuraiPonSingh&layout=compact&theme=tokyonight" alt="Durai Pon Singh's Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuraiPonSingh&layout=compact&theme=tokyonight&langs_count=6" alt="Durai Pon Singh's Top Languages" />
 </div>
 
 ---
