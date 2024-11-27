@@ -46,6 +46,10 @@
 
 ## 🌟 Featured Projects
 
+### [To-Do List App ✅](https://whisperedshadow.github.io/to-do/)
+A simple to-do list application built with **HTML, CSS, JavaScript**. Allows users to add tasks, mark them as completed, and delete them, with all data stored using `localStorage`.  
+[![To-Do List App](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://whisperedshadow.github.io/to-do/)
+
 ### [Weather App 🌤️](https://weather-zeta-indol.vercel.app/)
 A weather application built with **React.js** using OpenWeatherMap API. Displays temperature, weather conditions, and other details in a clean and responsive UI.  
 [![Weather App](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://weather-zeta-indol.vercel.app/)
