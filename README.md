@@ -47,6 +47,11 @@
 
 ## 🌟 Featured Projects
 
+### [Portfolio Website 🌐](https://whisperedshadow.github.io/temp-portfolio/)  
+A temporary portfolio website showcasing my projects, skills, and achievements. Built with **HTML, CSS, JavaScript, Bootstrap** to create a clean and responsive design.  
+[![Portfolio Website](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://whisperedshadow.github.io/temp-portfolio/)  
+
+
 ### [To-Do List App ✅](https://whisperedshadow.github.io/to-do/)
 A simple to-do list application built with **HTML, CSS, JavaScript**. Allows users to add tasks, mark them as completed, and delete them, with all data stored using `localStorage`.  
 [![To-Do List App](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://whisperedshadow.github.io/to-do/)
