@@ -47,6 +47,10 @@
 
 ## 🌟 Featured Projects
 
+### [Personal Portfolio Website 🌐](https://durai-pon-singh.me/)  
+My personal portfolio showcasing my skills, projects, and achievements as a developer. Built with **React**, **MySQL**, **Three.js**, **Express.js**, and **Mailjet**.  
+[![Personal Portfolio Website](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://durai-pon-singh.me/)
+
 ### [Portfolio Website 🌐](https://whisperedshadow.github.io/temp-portfolio/)  
 A temporary portfolio website showcasing my projects, skills, and achievements. Built with **HTML, CSS, JavaScript, Bootstrap** to create a clean and responsive design.  
 [![Portfolio Website](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://whisperedshadow.github.io/temp-portfolio/)  
