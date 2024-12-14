@@ -82,9 +82,10 @@ A professional website for a digital marketing company built with **HTML**, **CS
 
 ## 🌐 Connect with Me
 
+- **Web**: [Durai Pon Singh](https://www.durai-pon-singh.me) 
 - **LinkedIn**: [Durai Pon Singh](https://www.linkedin.com/in/d-durai-pon-singh/)  
 - **Instagram**: [@whispered_shadow](https://instagram.com/whispered_shadow)  
-- **Email**: [duraiponsingh@gmail.com](mailto:duraiponsingh@gmail.com)  
+- **Email**: [dduraiponsingh@gmail.com](mailto:dduraiponsingh@gmail.com)  
 
 ---
 
