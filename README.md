@@ -66,7 +66,7 @@ A weather application built with **React.js** using OpenWeatherMap API. Displays
 
 ### [Luminare Digital 💼](https://luminare-digital.onrender.com/)
 A professional website for a digital marketing company built with **HTML**, **CSS**, **JavaScript**, **Flask**, **MySQL**, and **Mailjet**. Features include service details, company highlights, and a contact form for easy communication.  
-[![Luminare Digital](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://luminare-digital.onrender.com/)
+[![Luminare Digital](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://luminare-digital.vercel.app/)
 
 
 ---
