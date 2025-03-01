@@ -51,6 +51,12 @@
 My personal portfolio showcasing my skills, projects, and achievements as a developer. Built with **React**, **MySQL**, **Three.js**, **Express.js**, and **Mailjet**.  
 [![Personal Portfolio Website](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://durai-pon-singh.me/)
 
+
+### [Pic Spy 📸](https://pic-spy.vercel.app/)
+An image analysis application built with **Flask (Python)**. Uses **Google Lens** to analyze images and provide results with accurate insights.  
+[![Pic Spy](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://pic-spy.vercel.app/)
+
+
 ### [Portfolio Website 🌐](https://whisperedshadow.github.io/temp-portfolio/)  
 A temporary portfolio website showcasing my projects, skills, and achievements. Built with **HTML, CSS, JavaScript, Bootstrap** to create a clean and responsive design.  
 [![Portfolio Website](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge)](https://whisperedshadow.github.io/temp-portfolio/)  
